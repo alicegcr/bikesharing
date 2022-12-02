@@ -11,6 +11,8 @@ The following questions were elaborated on to guide the project's analysis:
 - How many trips are taken by the hour for each day of the week for all riders and genders?
 - A breakdown of what days of the week a user might be more likely to check out a bike by type of user and gender. 
 
+[link to dashboard](https://public.tableau.com/views/NYCCitiBikeAnalysis_16699374940950/NYCCitiBikeAnalysis?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Resources 
 - data: https://ride.citibikenyc.com/system-data (201908-citibike-tripdata.csv.zip)
 - source: Pandas, Jupyter Notebook, Tableau.
