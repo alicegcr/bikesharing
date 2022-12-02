@@ -19,6 +19,8 @@ The following questions were elaborated on to guide the project's analysis:
 
 ## Results 
 1. Top Starting Stations Locations
+There is a concentration of trips starting in the south of Manhattan, 
+where there are many tourist places and big companies.
 
 
 ![NYC_Citi_Bike_Analysis](NYC_Citi_Bike_Analysis.png).
@@ -26,6 +28,8 @@ The following questions were elaborated on to guide the project's analysis:
 
 
 2. Top Ending Stations Locations
+There is the same concentration at the end of trips. 
+Another reason for this concentration is this region's variety of bike lanes.
 
 
 ![NYC_Citi_Bike_Analysis1](NYC_Citi_Bike_Analysis1.png).
