@@ -19,12 +19,31 @@ The following questions were elaborated on to guide the project's analysis:
 
 ## Results 
 1. Top Starting Stations Locations
+![NYC Citi Bike Analysis](NYC Citi Bike Analysis.png).
+
+
 
 2. Top Ending Stations Locations
+![NYC Citi Bike Analysis(1)](NYC Citi Bike Analysis(1).png).
+
+
 3. Checkout Time for Users
+![NYC Citi Bike Analysis(2)](NYC Citi Bike Analysis(2).png).
+
+
 4. Checkout Time by Gender
+![NYC Citi Bike Analysis(3)](NYC Citi Bike Analysis(3).png).
+
+
 5. Trips by Weekday per Hour
+![NYC Citi Bike Analysis(4)](NYC Citi Bike Analysis(4).png).
+
+
 6. Trips by Gender (Weekday per Hour)
+![NYC Citi Bike Analysis(5)](NYC Citi Bike Analysis(5).png).
+
+
 7.User Trips by Gender by Weekdays
+![NYC Citi Bike Analysis(6)](NYC Citi Bike Analysis(6).png).
 
 ## Summary 
