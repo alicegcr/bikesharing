@@ -74,6 +74,27 @@ the peaks are still at 8 am and night from 6 pm to 7 pm.
 
 
 7.User Trips by Gender by Weekdays
+
+- And finally, in the last graph, it is possible to observe that subscribers have 
+a significantly greater tendency to use bikesharing than customers.
+
+
 ![NYC_Citi_Bike_Analysis6](NYC_Citi_Bike_Analysis6.png).
 
 ## Summary 
+
+After the analysis, it is possible to understand that bikesharing is a business opportunity, 
+obviously, for the research to be more accurate, it is also necessary to analyze the city 
+where the bikesharing will be applied.
+
+Here are two suggested metrics for further analysis:
+
+- Better understand the period of use of the bicycle until it needs maintenance, directly 
+affecting the cost of the business and also the availability of bikes for customers.
+
+
+- Another metric would be the city's geography, as this can change which bicycles can be available 
+to the public. For example, conventional bicycles work in a flat town, while electric bikes are needed 
+in a city with hills to improve the customer experience.
+
+
